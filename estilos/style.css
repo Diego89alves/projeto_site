@@ -1,0 +1,16 @@
+*{
+font-family: arial,helvetica,sans-serif;
+font-size: 16px;
+
+}
+body {
+    background-color: rgb(210, 187, 94);
+
+}
+ main {
+    background-color: aquamarine;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    box-shadow: 3px 3px 5px agba(0,0,0,0.473);
+ }
